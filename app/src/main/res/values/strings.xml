@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BitfinexClient</string>
+
+    <string name="bitfinex_last_price">Last price: %1$.2f</string>
+    <string name="bitfinex_high">High: %1$.2f</string>
+    <string name="bitfinex_low">Low: %1$.2f</string>
+    <string name="bitfinex_change">Change: %1$.2f</string>
+    <string name="bitfinex_volume">Volume: %1$.2f</string>
+
+</resources>
